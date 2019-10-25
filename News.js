@@ -1,0 +1,14 @@
+var News = {
+"type": "FeatureCollection",
+"name": "Syria_News",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Date": "2019\/10\/20", "Headline": "The regime's government says it has begun to rebuild the Al-Thawra oil field in Raqqa", "Link": "https:\/\/www.enabbaladi.net\/archives\/336364", "Gender": "Economy", "Icon": "Oil", "Lat": 35.629167, "Long": 38.445833 }, "geometry": { "type": "Point", "coordinates": [ 38.445833, 35.629167 ] } },
+{ "type": "Feature", "properties": { "Date": "2019\/10\/19", "Headline": "Qatar Charity carries out a major wheat production", "Link": "https:\/\/www.eqtsad.net\/news\/article\/27617\/", "Gender": "Economy", "Icon": "Agriculture", "Lat": 36.48141, "Long": 37.196504 }, "geometry": { "type": "Point", "coordinates": [ 37.196504, 36.48141 ] } },
+{ "type": "Feature", "properties": { "Date": "2019\/10\/23", "Headline": "Cotton production and marketing improving, Tobacco season will be excellent. Cotton production is located in the areas of Aleppo, Hama, Raqqa, Deir Ezzor and Hasaka", "Link": "http:\/\/alwatan.sy\/archives\/217274", "Gender": "Economy", "Icon": "Agriculture", "Lat": 35.813758, "Long": 37.968458 }, "geometry": { "type": "Point", "coordinates": [ 37.968458, 35.813758 ] } },
+{ "type": "Feature", "properties": { "Date": "2019\/10\/23", "Headline": "Cotton production and marketing improving, Tobacco season will be excellent. Tobacco agriculture is located in the coastal areas of Tartous and Lattakia", "Link": "http:\/\/alwatan.sy\/archives\/217275", "Gender": "Economy", "Icon": "Agriculture", "Lat": 35.313656, "Long": 36.289982 }, "geometry": { "type": "Point", "coordinates": [ 36.289982, 35.313656 ] } },
+{ "type": "Feature", "properties": { "Date": "2019\/10\/24", "Headline": "Dr. Bassam Suleiman, Director General of the General Organization for Seed Propagation, accusess FAO and WFP of laying ", "Link": "http:\/\/syriasteps.com\/index.php?d=132&id=176115", "Gender": "Economy", "Icon": "Agriculture", "Lat": 36.214108, "Long": 39.024736 }, "geometry": { "type": "Point", "coordinates": [ 39.024736, 36.214108 ] } },
+{ "type": "Feature", "properties": { "Date": "2019\/10\/23", "Headline": "Russian company STG dissolves all contracts with Port Company in Tartous", "Link": "https:\/\/www.eqtsad.net\/news\/article\/27687\/", "Gender": "Economy", "Icon": "Trade", "Lat": 34.90755, "Long": 35.874325 }, "geometry": { "type": "Point", "coordinates": [ 35.874325, 34.90755 ] } },
+{ "type": "Feature", "properties": { "Date": "2019\/10\/24", "Headline": "Syrian budget 2020: preparing to lift subsidies in bread and oil derivatives", "Link": "https:\/\/www.eqtsad.net\/news\/article\/27677\/", "Gender": "Economy", "Icon": "Policies", "Lat": 33.521876, "Long": 36.297221 }, "geometry": { "type": "Point", "coordinates": [ 36.297221, 33.521876 ] } }
+]
+}
